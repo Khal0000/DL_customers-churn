@@ -1,0 +1,2 @@
+frontend : https://h8-khalisul-akbar-churn-ornot.herokuapp.com/
+backend : https://h8-kbackend.herokuapp.com/predict

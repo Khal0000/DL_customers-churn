@@ -1,0 +1,6 @@
+waitress
+pandas
+flask
+scikit-learn
+tensorflow-cpu
+numpy
